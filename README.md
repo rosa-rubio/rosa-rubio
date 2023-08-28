@@ -4,7 +4,7 @@ I'm a translator and full-stack developer who is passionate about languages and 
 
 Some technologies I use are ReactJS, Laravel & Livewire. 
 
-Here you can find some of the projects I have been working.My interest in the React ecosystem led me to launch React Robins, a community for women and non-binary ReactJS developers.
+Here you can find some of the projects I have been working... Enjoy!
 
 Find me around the web 🌎:
 
